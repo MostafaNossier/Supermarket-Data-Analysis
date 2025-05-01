@@ -29,6 +29,3 @@ The dashboard visualizes real-time data to support data-driven decision-making i
 - **Power BI** – For data visualization and dashboard design  
 - **Microsoft Excel / CSV** – As the data source (sample/mock data)  
 - **Data Modeling** – Applied basic transformations and measures for clean visuals
-
-## 📂 Folder Structure
-
